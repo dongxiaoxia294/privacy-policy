@@ -2,102 +2,77 @@
 
 Last updated: 2026-03-08
 
-This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+This Privacy Policy governs the manner in which SalesEmail AI ("we", "us", or "our") collects, uses, maintains, and discloses information collected from users (each, a "User") of the SalesEmail AI mobile application (the "App").
 
-We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the [Google Play Developer Policies](https://play.google.com/about/developer-content-policy/) and [GDPR Guidelines](https://gdpr.eu/).
+This policy is compliant with Google Play Developer Policies, the General Data Protection Regulation (GDPR) for users in the European Economic Area (EEA), and the California Consumer Privacy Act (CCPA).
 
-## Interpretation and Definitions
+## 1. Information We Collect
 
-### Interpretation
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+We collect data to provide and improve our Service. We have categorized the data collection into the following types, in accordance with Google Play's Data Safety requirements:
 
-### Definitions
-For the purposes of this Privacy Policy:
-- **Application** means the SalesEmail AI mobile application provided by the Company, available on Google Play.
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to SalesEmail AI.
-- **Country** refers to: [Your Country/Region, 如 United States]
-- **Device** means any device that can access the Service such as a mobile phone, tablet or computer.
-- **Personal Data** is any information that relates to an identified or identifiable individual.
-- **Service** refers to the Application.
-- **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+### 1.1 Device or Other Identifiers
+**Collected and Used:** YES
+- **Purpose:** We collect a unique device identifier to enforce a daily usage limit (30 requests per device) to ensure fair access to the AI service. Additionally, this identifier may be shared with our advertising partner (Google AdMob) to serve relevant advertisements.
+- **Current Status:** This data is collected and processed in the current version of the App.
 
-## Collecting and Using Your Personal Data
+### 1.2 App Activity (App Interactions)
+**Collected and Used:** YES
+- **Purpose:** We collect data regarding your interactions within the App, such as the templates you select, the number of emails generated, and your usage history. This data is used to provide core functionality (e.g., saving your email history) and to analyze usage patterns to improve the App's performance and user experience.
+- **Current Status:** This data is collected and processed in the current version of the App.
 
-### Types of Data Collected
-#### Personal Data
-While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
-- Device information (such as device model, operating system version)
-- Usage data (how You interact with the Application, templates used, generation frequency)
+### 1.3 Crash Logs (Diagnostic Data)
+**Collected and Used:** NO (Reserved for Future Use)
+- **Purpose:** While the current version of the App does not collect crash logs, we reserve the right to implement this feature in future updates. Crash logs will be used solely for the purpose of diagnosing errors, fixing bugs, and improving the stability of the App.
+- **Current Status:** Not collected in the initial version. This disclosure is made to accommodate future app updates without requiring immediate policy changes.
 
-#### Non-Personal Data
-We may also collect information that does not directly identify You, including but not limited to:
-- App usage statistics (anonymous)
-- Crash reports (to improve app stability)
+## 2. How We Use Collected Information
 
-### Purpose of Collection
-The Company may use Your Personal Data for the following purposes:
-1. **To provide and maintain our Service**: Including to monitor the usage of our Service.
-2. **To improve our Service**: We may use Your feedback to improve our products and services.
-3. **To display advertisements**: We may use non-personal data to display relevant ads (AdMob), which do not involve Your personal information.
-4. **To manage technical issues**: To diagnose and fix technical problems with the Application.
+The information we collect is used for the following primary purposes:
 
-### Retention of Your Personal Data
-We will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our legal agreements and policies.
+1. **To Provide and Maintain the Service:**
+   - Enforce daily usage limits using device identifiers.
+   - Save your email generation history for easy retrieval.
+2. **To Improve the App:**
+   - Analyze App activity to understand user preferences and optimize features.
+   - (Future) Use crash logs to fix technical issues.
+3. **To Display Advertisements:**
+   - We use Google AdMob to serve ads. AdMob may use device identifiers to display personalized or non-personalized ads. For more information on how Google uses data, please see Google's Privacy Policy.
 
-### Transfer of Your Personal Data
-Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ from those of Your jurisdiction.
+## 3. Data Transmission and Security
 
-We will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
+- **Data Encryption:** All data collected by the App is transmitted over secure channels using industry-standard encryption (HTTPS) to protect it from unauthorized access.
+- **Data Storage:** Device identifiers and App activity data are stored securely. We implement reasonable security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal data.
 
-### Disclosure of Your Personal Data
-#### Legal Requirements
-The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
-- Comply with a legal obligation
-- Protect and defend the rights or property of the Company
-- Prevent or investigate possible wrongdoing in connection with the Service
-- Protect the personal safety of Users of the Service or the public
-- Protect against legal liability
+## 4. Third-Party Services
 
-### Security of Your Personal Data
-The security of Your Personal Data is important to Us, but remember that no method of transmission over the internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
-
-## Your Privacy Rights
-
-### GDPR Rights (for EU Users)
-If You are a resident of the European Economic Area (EEA), You have certain data protection rights. The Company aims to take reasonable steps to allow You to correct, amend, delete, or limit the use of Your Personal Data.
-
-If You wish to be informed what Personal Data We hold about You and if You want it to be removed from our systems, please contact Us.
-
-In certain circumstances, You have the following data protection rights:
-- The right to access, update or delete the information We have on You.
-- The right of rectification.
-- The right to object.
-- The right of restriction.
-- The right to data portability.
-- The right to withdraw consent.
-
-### CCPA Rights (for California Users)
-If You are a California resident, You have the right to:
-- Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
-- Request that a business delete any personal data about the consumer that a business has collected.
-- Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
-
-## Third-Party Services
-
-Our Service may contain links to third-party websites or services that are not owned or controlled by the Company.
-
-The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party websites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such websites or services.
+Our App uses third-party services that may collect information used to identify you.
 
 ### Google AdMob
-We use AdMob to display ads in the Application. AdMob's privacy policy applies to the data collected by AdMob: https://policies.google.com/privacy
+- This App uses AdMob for advertising purposes.
+- AdMob's use of data is governed by Google's Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+- AdMob may collect data such as device identifiers to serve ads.
 
-## Changes to This Privacy Policy
+## 5. User Rights and Data Retention
 
-We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date at the top of this Privacy Policy.
+### Data Retention
+- We will retain your **Device ID** for as long as the app is installed on your device, or until you reset your device identifier.
+- We will retain your **App Activity (History)** locally on your device until you manually delete it or uninstall the App.
+- (Future) **Crash Logs** will be retained only as long as necessary to diagnose and fix the specific issue.
+
+### Your Rights (GDPR & CCPA)
+If you are a resident of the EEA or California, you have the right to:
+- **Access:** Request access to the personal data we hold about you.
+- **Deletion:** Request the deletion of your personal data. For this App, deleting the App from your device will remove all locally stored data.
+- **Opt-out:** You may opt out of personalized advertising by adjusting your Google Ad settings.
+
+## 6. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-## Contact Us
+## 7. Contact Us
 
-If you have any questions about this Privacy Policy, You can contact us:
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us:
+
 - By email: dongxiaoxia294@gmail.com
